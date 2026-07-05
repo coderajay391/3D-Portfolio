@@ -4,15 +4,15 @@ A portfolio project showcasing a 3D-themed interface and interactive sections.
 
 ## Portfolio Preview
 
-<image src"assets/3d-portfolio1.png">Portfolio Preview</image>
-<image src"assets/3d-portfolio2.png">Portfolio Preview</image>
-<image src"assets/3d-portfolio3.png">Portfolio Preview</image>
-<image src"assets/3d-portfolio4.png">Portfolio Preview</image>
-<image src"assets/3d-portfolio5.png">Portfolio Preview</image>
-<image src"assets/3d-portfolio6.png">Portfolio Preview</image>
-<image src"assets/3d-portfolio7.png">Portfolio Preview</image>
-<image src"assets/3d-portfolio8.png">Portfolio Preview</image>
-<image src"assets/3d-portfolio9.png">Portfolio Preview</image>
+<image src="assets/3d-portfolio1.png">Portfolio Preview</image>
+<image src="assets/3d-portfolio2.png">Portfolio Preview</image>
+<image src="assets/3d-portfolio3.png">Portfolio Preview</image>
+<image src="assets/3d-portfolio4.png">Portfolio Preview</image>
+<image src="assets/3d-portfolio5.png">Portfolio Preview</image>
+<image src="assets/3d-portfolio6.png">Portfolio Preview</image>
+<image src="assets/3d-portfolio7.png">Portfolio Preview</image>
+<image src="assets/3d-portfolio8.png">Portfolio Preview</image>
+<image src="assets/3d-portfolio9.png">Portfolio Preview</image>
 
 ## Features
 
